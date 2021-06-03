@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: bc8aecab929051043a4cfad85adbebea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Character
+    100002: Model_0
+    100004: Model_1
+    100006: Model_Skybox
+    100008: //RootNode
+    100010: "\u0413\u0430\u0440\u0430\u0436\u043D\u044B\u0439 \u043F\u0440\u043E\u0451\u043C"
+    100012: "\u0414\u0432\u0435\u0440\u043D\u043E\u0439 \u043F\u0440\u043E\u0451\u043C"
+    100014: "\u041E\u043A\u043E\u043D\u043D\u044B\u0439 \u043F\u0440\u043E\u0451\u043C"
+    100016: "\u041F\u043E\u0451\u043C \u0434\u043B\u044F \u043B\u0438\u0444\u0442\u0430"
+    400000: Character
+    400002: Model_0
+    400004: Model_1
+    400006: Model_Skybox
+    400008: //RootNode
+    400010: "\u0413\u0430\u0440\u0430\u0436\u043D\u044B\u0439 \u043F\u0440\u043E\u0451\u043C"
+    400012: "\u0414\u0432\u0435\u0440\u043D\u043E\u0439 \u043F\u0440\u043E\u0451\u043C"
+    400014: "\u041E\u043A\u043E\u043D\u043D\u044B\u0439 \u043F\u0440\u043E\u0451\u043C"
+    400016: "\u041F\u043E\u0451\u043C \u0434\u043B\u044F \u043B\u0438\u0444\u0442\u0430"
+    2100000: No Name
+    2100002: Base
+    2300000: Character
+    2300002: Model_0
+    2300004: Model_1
+    2300006: Model_Skybox
+    2300008: "\u0413\u0430\u0440\u0430\u0436\u043D\u044B\u0439 \u043F\u0440\u043E\u0451\u043C"
+    2300010: "\u0414\u0432\u0435\u0440\u043D\u043E\u0439 \u043F\u0440\u043E\u0451\u043C"
+    2300012: "\u041E\u043A\u043E\u043D\u043D\u044B\u0439 \u043F\u0440\u043E\u0451\u043C"
+    2300014: "\u041F\u043E\u0451\u043C \u0434\u043B\u044F \u043B\u0438\u0444\u0442\u0430"
+    3300000: Character
+    3300002: Model_0
+    3300004: Model_1
+    3300006: Model_Skybox
+    3300008: "\u0413\u0430\u0440\u0430\u0436\u043D\u044B\u0439 \u043F\u0440\u043E\u0451\u043C"
+    3300010: "\u0414\u0432\u0435\u0440\u043D\u043E\u0439 \u043F\u0440\u043E\u0451\u043C"
+    3300012: "\u041E\u043A\u043E\u043D\u043D\u044B\u0439 \u043F\u0440\u043E\u0451\u043C"
+    3300014: "\u041F\u043E\u0451\u043C \u0434\u043B\u044F \u043B\u0438\u0444\u0442\u0430"
+    4300000: "\u0413\u0430\u0440\u0430\u0436\u043D\u044B\u0439 \u043F\u0440\u043E\u0451\u043C"
+    4300002: "\u041F\u043E\u0451\u043C \u0434\u043B\u044F \u043B\u0438\u0444\u0442\u0430"
+    4300004: "\u0414\u0432\u0435\u0440\u043D\u043E\u0439 \u043F\u0440\u043E\u0451\u043C"
+    4300006: "\u041E\u043A\u043E\u043D\u043D\u044B\u0439 \u043F\u0440\u043E\u0451\u043C"
+    4300008: Character
+    4300010: Model_0
+    4300012: Model_1
+    4300014: Model_Skybox
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: f021fe0f16acd654e9a60f401c04317f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 45
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
