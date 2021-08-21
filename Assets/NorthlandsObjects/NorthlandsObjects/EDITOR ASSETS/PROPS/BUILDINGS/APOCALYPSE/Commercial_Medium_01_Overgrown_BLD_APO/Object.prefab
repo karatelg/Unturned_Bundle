@@ -194,6 +194,8 @@ GameObject:
   - component: {fileID: 4572043855773691189}
   - component: {fileID: 3361259508579704498}
   - component: {fileID: 4311054175407822324}
+  - component: {fileID: 572236377139537976}
+  - component: {fileID: -4382369131074402477}
   m_Layer: 15
   m_Name: Object
   m_TagString: Large
@@ -305,6 +307,36 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   originalRenderers: []
   lodParentObject: {fileID: 9097242596647390474}
+--- !u!54 &572236377139537976
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4550551728000529799}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!64 &-4382369131074402477
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4550551728000529799}
+  m_Material: {fileID: 13400000, guid: 178a9e5ca1ce87349abf9b204e5458d9, type: 2}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300014, guid: d1f90ed850da8ba42aa4042dacdd71cf, type: 3}
 --- !u!1 &6624001162530556015
 GameObject:
   m_ObjectHideFlags: 0

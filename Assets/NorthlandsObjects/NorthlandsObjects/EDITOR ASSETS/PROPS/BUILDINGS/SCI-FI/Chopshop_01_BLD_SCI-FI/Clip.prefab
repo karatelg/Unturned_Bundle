@@ -9,10 +9,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4612130668171872}
-  - component: {fileID: 64204114812945158}
-  m_Layer: 21
+  - component: {fileID: 7286279834494307431}
+  m_Layer: 15
   m_Name: Clip
-  m_TagString: Clip
+  m_TagString: Large
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31,7 +31,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &64204114812945158
+--- !u!64 &7286279834494307431
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -44,4 +44,4 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: ac5c9a40042c4f74e974565b4114d426, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 51d72d84376ab3b4daa1114c3524fa30, type: 3}

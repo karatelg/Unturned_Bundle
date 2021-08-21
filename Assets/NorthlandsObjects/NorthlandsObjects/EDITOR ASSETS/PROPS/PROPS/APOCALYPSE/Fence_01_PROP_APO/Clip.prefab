@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 579905849988379083}
   - component: {fileID: 645143838633285243}
-  m_Layer: 21
+  m_Layer: 15
   m_Name: Clip
-  m_TagString: Clip
+  m_TagString: Large
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38,7 +38,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 583246778088848001}
-  m_Material: {fileID: 13400000, guid: 5c746275e4efed64cbacaa090e0c4324, type: 2}
+  m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2

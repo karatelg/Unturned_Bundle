@@ -55,8 +55,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4108317952723937606}
   - component: {fileID: 7235203332219843979}
-  - component: {fileID: 4388437082947275377}
-  - component: {fileID: 724781318304480989}
   m_Layer: 22
   m_Name: Nav
   m_TagString: Navmesh
@@ -94,32 +92,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: a5bff3e510a974c419d7c0a43889076c, type: 2}
---- !u!114 &4388437082947275377
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4113760012576079550}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e0eb9661dcb8ea4f8acb45586df32e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  originalRenderers: []
-  lodParentObject: {fileID: 0}
---- !u!114 &724781318304480989
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4113760012576079550}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de05f0d5d71ade8409d463fd2d3629de, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &4113938640485860646
 GameObject:
   m_ObjectHideFlags: 0

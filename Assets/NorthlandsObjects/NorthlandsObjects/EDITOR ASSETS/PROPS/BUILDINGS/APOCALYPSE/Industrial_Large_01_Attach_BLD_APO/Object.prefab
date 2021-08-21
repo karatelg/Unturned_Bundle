@@ -180,6 +180,8 @@ GameObject:
   - component: {fileID: 7606986934548493321}
   - component: {fileID: 412349080779126525}
   - component: {fileID: 2875937605499830831}
+  - component: {fileID: -1471465037158841007}
+  - component: {fileID: 6846310365263781948}
   m_Layer: 15
   m_Name: Object
   m_TagString: Large
@@ -436,6 +438,34 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.733364, y: 0.801774, z: 1.970499}
   m_Center: {x: 17.5119, y: 11.4387, z: 6.1272316}
+--- !u!114 &-1471465037158841007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6872745398975660263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de05f0d5d71ade8409d463fd2d3629de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!54 &6846310365263781948
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6872745398975660263}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &8270752828659260811
 GameObject:
   m_ObjectHideFlags: 0

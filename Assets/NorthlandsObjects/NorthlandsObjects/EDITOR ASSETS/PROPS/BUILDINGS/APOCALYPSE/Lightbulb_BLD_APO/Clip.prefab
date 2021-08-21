@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400000}
+  - component: {fileID: 3094301669612909521}
   m_Layer: 15
   m_Name: Clip
   m_TagString: Large
@@ -31,6 +32,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3094301669612909521
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Material: {fileID: 13400000, guid: 0810544b271b0b9439cdc8765726a7a5, type: 2}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.23968506, y: 1.0478513, z: 0.23974597}
+  m_Center: {x: 0.014434814, y: 3.9220123, z: 0.0047673583}
 --- !u!1 &4562260447210273218
 GameObject:
   m_ObjectHideFlags: 0
@@ -41,7 +55,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6295039336079382930}
   - component: {fileID: 8688941786620584909}
-  m_Layer: 21
+  m_Layer: 15
   m_Name: Model_0
   m_TagString: Clip
   m_Icon: {fileID: 0}

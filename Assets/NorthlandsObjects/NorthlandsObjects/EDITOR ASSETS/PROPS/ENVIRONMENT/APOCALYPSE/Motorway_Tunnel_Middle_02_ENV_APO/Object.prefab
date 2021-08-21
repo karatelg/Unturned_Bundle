@@ -14,7 +14,8 @@ GameObject:
   - component: {fileID: 1787455663198289246}
   - component: {fileID: 6786251217812347821}
   - component: {fileID: 6627304369830367794}
-  - component: {fileID: 8676289961221867829}
+  - component: {fileID: -2835406477582452712}
+  - component: {fileID: -6763625792945062216}
   m_Layer: 15
   m_Name: Object
   m_TagString: Large
@@ -139,7 +140,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   originalRenderers: []
   lodParentObject: {fileID: 3197911781860244672}
---- !u!114 &8676289961221867829
+--- !u!54 &-2835406477582452712
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1021910470503728}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &-6763625792945062216
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

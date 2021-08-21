@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 505125256210798775}
   - component: {fileID: 569930462792967669}
-  m_Layer: 21
+  m_Layer: 16
   m_Name: Clip
-  m_TagString: Clip
+  m_TagString: Medium
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -38,10 +38,10 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 507630389146238479}
-  m_Material: {fileID: 13400000, guid: fa56c90ac5a985f4b94a625c99c6308d, type: 2}
+  m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
+  serializedVersion: 4
   m_Convex: 1
-  m_CookingOptions: 14
+  m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 3bf1797a1e906ed419074e5bd4b7ff3b, type: 3}

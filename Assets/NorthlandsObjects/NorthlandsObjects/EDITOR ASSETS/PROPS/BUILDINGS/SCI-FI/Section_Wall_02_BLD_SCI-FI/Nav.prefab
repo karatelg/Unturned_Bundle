@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4625375722686006}
-  - component: {fileID: 64216962917805086}
+  - component: {fileID: 5678946584760987569}
   m_Layer: 22
   m_Name: Nav
   m_TagString: Navmesh
@@ -31,7 +31,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &64216962917805086
+--- !u!64 &5678946584760987569
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -42,6 +42,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 43978178379702120, guid: 77028493e3c712546a27c9d93a1618a9, type: 2}
+  m_Mesh: {fileID: 4300000, guid: 902704bd5c9f81747ad4ed1dd8ab8855, type: 3}
